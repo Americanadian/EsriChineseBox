@@ -1,0 +1,15 @@
+C:\Users\chris\source\repos\ChineseBox\ChineseBox\bin\Debug\net6.0\ChineseBox.exe
+C:\Users\chris\source\repos\ChineseBox\ChineseBox\bin\Debug\net6.0\ChineseBox.deps.json
+C:\Users\chris\source\repos\ChineseBox\ChineseBox\bin\Debug\net6.0\ChineseBox.runtimeconfig.json
+C:\Users\chris\source\repos\ChineseBox\ChineseBox\bin\Debug\net6.0\ChineseBox.dll
+C:\Users\chris\source\repos\ChineseBox\ChineseBox\bin\Debug\net6.0\ChineseBox.pdb
+C:\Users\chris\source\repos\ChineseBox\ChineseBox\obj\Debug\net6.0\ChineseBox.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\ChineseBox\ChineseBox\obj\Debug\net6.0\ChineseBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\ChineseBox\ChineseBox\obj\Debug\net6.0\ChineseBox.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\ChineseBox\ChineseBox\obj\Debug\net6.0\ChineseBox.AssemblyInfo.cs
+C:\Users\chris\source\repos\ChineseBox\ChineseBox\obj\Debug\net6.0\ChineseBox.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\ChineseBox\ChineseBox\obj\Debug\net6.0\ChineseBox.dll
+C:\Users\chris\source\repos\ChineseBox\ChineseBox\obj\Debug\net6.0\refint\ChineseBox.dll
+C:\Users\chris\source\repos\ChineseBox\ChineseBox\obj\Debug\net6.0\ChineseBox.pdb
+C:\Users\chris\source\repos\ChineseBox\ChineseBox\obj\Debug\net6.0\ChineseBox.genruntimeconfig.cache
+C:\Users\chris\source\repos\ChineseBox\ChineseBox\obj\Debug\net6.0\ref\ChineseBox.dll
